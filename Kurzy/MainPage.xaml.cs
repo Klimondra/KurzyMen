@@ -9,11 +9,16 @@ namespace Kurzy
     public partial class MainPage : ContentPage
     {
         int count = 0;
+        private static string mena = "EUR";
 
         public MainPage()
         {
             InitializeComponent();
             LoadEurDevStred();
+
+            nadpisEur.Text = $"Kurzy z {mena}";
+            podnadpisEur.Text = $"{mena}";
+            eurlabel.Text = $"0 {mena}";
         }
 
         private async void LoadEurDevStred()
@@ -41,11 +46,11 @@ namespace Kurzy
                 double eurDevStred = await GetEurDevStred();
                 if (eurDevStred != 0)
                 {
-                    eurlabel.Text = $"{Math.Round(castka1 * (1 / eurDevStred), 2)} EUR";
+                    eurlabel.Text = $"{Math.Round(castka1 * (1 / eurDevStred), 2)} {mena}";
                 }
                 else
                 {
-                    Console.WriteLine("Nepodařilo se načíst kurz EUR.");
+                    Console.WriteLine($"Nepodařilo se načíst kurz {mena}.");
                 }
             }
         }
@@ -66,7 +71,7 @@ namespace Kurzy
                 }
                 else
                 {
-                    Console.WriteLine("Nepodařilo se načíst kurz EUR.");
+                    Console.WriteLine($"Nepodařilo se načíst kurz {mena}.");
                 }
             }
         }
@@ -94,7 +99,7 @@ namespace Kurzy
                     {
                         JsonElement root = doc.RootElement;
                         JsonElement kurzy = root.GetProperty("kurzy");
-                        JsonElement eur = kurzy.GetProperty("EUR");
+                        JsonElement eur = kurzy.GetProperty(mena);
                         double eurDevStred = eur.GetProperty("dev_stred").GetDouble();
                         return eurDevStred;
                     }
@@ -104,6 +109,33 @@ namespace Kurzy
             {
                 Console.WriteLine($"Chyba: {e.Message}");
                 return 0;
+            }
+        }
+
+
+        private void btnSwitch_clicked(object? sender, EventArgs e)
+        {
+            switch (btnSwitch.Text)
+            {
+                case "Změna na USD":
+                    mena = "USD";
+                    btnSwitch.Text = "Změna na EUR";
+                    
+                    nadpisEur.Text = $"Kurzy z {mena}";
+                    podnadpisEur.Text = $"{mena}";
+                    eurlabel.Text = $"0 {mena}";
+                    LoadEurDevStred();
+                    break;
+                
+                case "Změna na EUR":
+                    mena = "EUR";
+                    btnSwitch.Text = "Změna na USD";
+                    
+                    nadpisEur.Text = $"Kurzy z {mena}";
+                    podnadpisEur.Text = $"{mena}";
+                    eurlabel.Text = $"0 {mena}";
+                    LoadEurDevStred();
+                    break;
             }
         }
     }

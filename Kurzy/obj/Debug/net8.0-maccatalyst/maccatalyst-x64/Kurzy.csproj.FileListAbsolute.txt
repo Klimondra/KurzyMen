@@ -299,3 +299,4 @@ D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-maccatalyst\maccat
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Kurzy.pdb
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Kurzy.genruntimeconfig.cache
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\Kurzy.dll
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Kurzy.sourcelink.json

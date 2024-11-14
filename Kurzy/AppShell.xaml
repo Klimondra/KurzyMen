@@ -5,10 +5,10 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:Kurzy"
     Shell.FlyoutBehavior="Disabled"
-    Title="Kurzy">
+    Title="Převodník měn">
 
     <ShellContent
-        Title="Home"
+        Title="Převodník Měn"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 

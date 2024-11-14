@@ -1,11 +1,6 @@
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\Kurzy.runtimeconfig.json
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\Kurzy.dll
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\Kurzy.pdb
-D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\com.companyname.kurzy.apk
-D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\com.companyname.kurzy.aab
-D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\com.companyname.kurzy-Signed.aab
-D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\com.companyname.kurzy-Signed.apk
-D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\com.companyname.kurzy-Signed.apk.idsig
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\build.props
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\adb.props
@@ -126,10 +121,7 @@ D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\Kurzy.dll
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\Kurzy.pdb
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\Kurzy.genruntimeconfig.cache
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\Kurzy.runtimeconfig.json.bin
-D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\android\bin\com.companyname.kurzy.apk
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\android\bin\base.zip
-D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\android\bin\com.companyname.kurzy.aab
-D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\android\bin\com.companyname.kurzy.apks
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\res\values\colors.xml
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\uploadflags.txt
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\resolvedassemblies.hash
@@ -1046,3 +1038,13 @@ D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\stamp\_Gen
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\Kurzy.sourcelink.json
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\com.klimondra.kurzy.apk
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\com.klimondra.kurzy.aab
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\com.klimondra.kurzy-Signed.aab
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\com.klimondra.kurzy-Signed.apk
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\bin\Debug\net8.0-android\com.klimondra.kurzy-Signed.apk.idsig
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\android\bin\com.klimondra.kurzy.apk
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\android\bin\com.klimondra.kurzy.aab
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\android\bin\com.klimondra.kurzy.apks
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-android\android\src\com\klimondra\kurzy\R.java

@@ -311,3 +311,13 @@ D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\Kurzy.pdb
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\Kurzy.genruntimeconfig.cache
 D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\ref\Kurzy.dll
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\Kurzy.sourcelink.json
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_0B1D6792854F423D5B3F48BC03E503B69E0B98748AF5D7093EEB888FB01F808B.png
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_0B1D6792854F423D5B3F48BC03E503B69E0B98748AF5D7093EEB888FB01F808B@2x.png
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_0B1D6792854F423D5B3F48BC03E503B69E0B98748AF5D7093EEB888FB01F808B@3x.png
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_A61E858A1BC9283BF31AA8C7C65615208330D72C92B9F385B1CC636CFA0AB106.png
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_A61E858A1BC9283BF31AA8C7C65615208330D72C92B9F385B1CC636CFA0AB106@2x.png
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_A61E858A1BC9283BF31AA8C7C65615208330D72C92B9F385B1CC636CFA0AB106@3x.png
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_C6424303AD3D974466C81CFF45965F8FCB9D0ADA1C5F959E96EC5F9276D01C29.png
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_C6424303AD3D974466C81CFF45965F8FCB9D0ADA1C5F959E96EC5F9276D01C29@2x.png
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\splash_C6424303AD3D974466C81CFF45965F8FCB9D0ADA1C5F959E96EC5F9276D01C29@3x.png
