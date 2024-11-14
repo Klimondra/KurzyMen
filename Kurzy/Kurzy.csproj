@@ -20,6 +20,13 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
 
+        <RunAOTCompilation>false</RunAOTCompilation>
+        <AndroidUseAot>false</AndroidUseAot>
+        <PublishTrimmed>false</PublishTrimmed>
+
+        <!-- ANDROID SDK -->
+        <AndroidSdkDirectory>C:\android\sdk</AndroidSdkDirectory>
+
         <!-- Display name -->
         <ApplicationTitle>Kurzy by Klimondra</ApplicationTitle>
 

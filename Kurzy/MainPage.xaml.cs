@@ -8,7 +8,6 @@ namespace Kurzy
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
         private static string mena = "EUR";
 
         public MainPage()
