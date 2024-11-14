@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Kurzy.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Label
+                Text="Kurzy z CZK"
+                FontFamily="Roboto" FontSize="36" HorizontalTextAlignment="Start" TextColor="Blue" Margin="0,10,0,0"/>
+
+            <Label Text="CZK" FontSize="16" HorizontalTextAlignment="Start" TextColor="Black"/>
+            <Entry x:Name="Input1" Keyboard="Numeric" Text="1"/>
+            <Label x:Name="eurlabel" Text="EUR" FontSize="24"></Label>
+            <Button Text="Převést" Clicked="Button_OnClicked"></Button>
+            
+            <Label
+                Text="Kurzy z EUR"
+                FontFamily="Roboto" FontSize="36" HorizontalTextAlignment="Start" TextColor="Blue" Margin="0,50,0,0"/>
+            <Label Text="EUR" FontSize="16" HorizontalTextAlignment="Start" TextColor="Black"/>
+            <Entry x:Name="Input2" Keyboard="Numeric" Text="1"/>
+            <Label x:Name="czklabel" Text="CZK" FontSize="24"></Label>
+            <Button Text="Převést" Clicked="Button2_OnClicked"></Button>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

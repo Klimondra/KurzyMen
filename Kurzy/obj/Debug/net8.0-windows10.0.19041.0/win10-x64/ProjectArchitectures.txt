@@ -1,0 +1,1 @@
+D:\PrivateDokumenty\Csharp-repos\Kurzy\Kurzy\Kurzy.csproj;x64
